@@ -1,0 +1,11 @@
+# python folders
+bin
+data
+include
+lib
+__pycache__
+
+# project files
+pip-selfcheck.json
+credentials.py
+.vscode
